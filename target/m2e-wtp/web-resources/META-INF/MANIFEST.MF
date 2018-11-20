@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: liangdong
+Build-Jdk: 10
+Implementation-Title: Finance
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.snowolf.smart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/finance
+Created-By: Maven Integration for Eclipse
+
